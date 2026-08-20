@@ -5,4 +5,4 @@
 - [x] Filtrer les sorties pour n’exposer que des liens média HTTPS explicitement autorisés.
 - [x] Ajouter des tests du manifeste, du routage et du filtrage de liens.
 - [x] Documenter l’installation locale, la configuration et les limites de compatibilité Nuvio.
-- [ ] Valider le dépôt et publier le premier commit privé.
+- [x] Valider le dépôt et publier le premier commit privé.
