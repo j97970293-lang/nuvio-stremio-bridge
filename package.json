@@ -1,0 +1,15 @@
+{
+  "name": "nuvio-stremio-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Addon Stremio modulaire pour adaptateurs locaux et interfaces publiques documentées.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
