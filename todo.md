@@ -6,3 +6,4 @@
 - [x] Ajouter des tests du manifeste, du routage et du filtrage de liens.
 - [x] Documenter l’installation locale, la configuration et les limites de compatibilité Nuvio.
 - [x] Valider le dépôt et publier le premier commit privé.
+- [x] Rendre le dépôt GitHub public afin de permettre la consultation du code sans authentification.
