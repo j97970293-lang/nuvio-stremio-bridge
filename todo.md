@@ -7,3 +7,4 @@
 - [x] Documenter l’installation locale, la configuration et les limites de compatibilité Nuvio.
 - [x] Valider le dépôt et publier le premier commit privé.
 - [x] Rendre le dépôt GitHub public afin de permettre la consultation du code sans authentification.
+- [x] Exposer temporairement une URL HTTPS de manifeste Stremio et documenter son caractère de test.
